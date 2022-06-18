@@ -1,0 +1,61 @@
+/* fontend code css start from here */
+
+
+*{
+    box-sizing: border-box;
+}
+.space-top{
+    margin-top: 4.9rem!important;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: rgb(247, 240, 240)!important;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: rgb(226, 212, 212)!important;
+}
+.slider-heading{
+    top: 10rem!important;
+    left: 16rem!important;
+}
+.slider-heading>h1{
+    font-size: 3rem!important;
+    font-weight: bolder!important;
+}
+.we-are{
+    text-align: justify!important;
+}
+.cursor-fix{
+    cursor: default!important;
+}
+#email-input{
+    border-color: #7a7171;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    background: none;
+}
+#email-input:hover{
+    border-color: #e7dfdf;
+}
+#email-button{
+    background: none;
+    border: none;
+}
+.text-info{
+    color: #2596be!important;
+}
+.bg-info{
+    background-color: #2596be!important;
+}
+.btn-info{
+    background-color: #2596be!important;
+}
+#send-to-top{
+    background:none!important;
+    font-size: 2rem!important;
+}
+#send-to-top>a:hover{
+    color: #6bb8d6!important;
+}
+
+/* fontend code css end from here */
