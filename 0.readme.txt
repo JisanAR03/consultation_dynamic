@@ -1,4 +1,4 @@
 Documantation
-at first make a database with final_project
+at first make a database and make it's name "final_project"
 then import final_project.sql from root folder to final_project database.
 Now u r ready for run this site.
